@@ -10,7 +10,7 @@ Azure Kubernetes Service (AKS) setup windows container with GMSA
 
 ## Table of Contents
 - [Overview](#overview)
-- [Documents](#documents)
+- [Architecture](#architecture)
 - [Build](#build)
 - [Configuration](#configuration)
 - [UML Diagrams](#uml-diagrams)
@@ -22,6 +22,14 @@ Azure Kubernetes Service (AKS) setup windows container with GMSA
 ## Overview
 
 Provide a brief overview of the shared libraries/microservices/other contents of this repo.
+
+## Architecture
+
+### CI/CD Pipeline
+![gitops-blueprint-aks-content md - updated](https://github.com/srinivas-kujala/aks-windows-container/assets/79716837/29daeea4-9c1d-4a39-bd37-1651c6b0fdee)
+
+### AKS Architecture
+![aks-reference-architecture-updated](https://github.com/srinivas-kujala/aks-windows-container/assets/79716837/e2b1eea1-8767-4f7c-bab4-734e4eda90b9)
 
 ## Build
 Provide any prerequisites and/or special instructions required to build the shared libraries/microservices/other code in the repo (Optional - delete if not needed)
