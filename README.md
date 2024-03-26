@@ -31,6 +31,9 @@ Provide a brief overview of the shared libraries/microservices/other contents of
 ### AKS Architecture
 ![aks-reference-architecture-updated](https://github.com/srinivas-kujala/aks-windows-container/assets/79716837/e2b1eea1-8767-4f7c-bab4-734e4eda90b9)
 
+### GMSA Flow
+![credential-guard](https://github.com/srinivas-kujala/aks-windows-container/assets/79716837/0c05d630-2266-4472-a391-9b0e132b4960)
+
 ## Build
 Provide any prerequisites and/or special instructions required to build the shared libraries/microservices/other code in the repo (Optional - delete if not needed)
 
